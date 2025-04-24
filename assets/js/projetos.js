@@ -93,7 +93,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/projetospotify.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/EduardoyuTA" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/EduardoyuTA/Projeto-Spotify" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -107,7 +107,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://robertoovidionutri-bio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://eduardoyuta.github.io/Projeto-Spotify" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -172,7 +172,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/portifolio.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/EduardoyuTA/Petscoob" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/EduardoyuTA/Projeto-Meu-Portif-lio" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -186,7 +186,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://eduardoyuta.github.io/Petscoob" target="_blank" title="Ver Projeto">
+              <a href="https://eduardoyuta.github.io/Projeto-Meu-Portif-lio" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
